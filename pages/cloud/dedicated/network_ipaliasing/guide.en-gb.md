@@ -5,7 +5,7 @@ excerpt: 'Find out how to add Additional IP addresses to your server configurati
 section: 'Network management'
 ---
 
-**Last updated 6th October 2022**
+**Last updated 30th November 2022**
 
 > [!primary]
 >
